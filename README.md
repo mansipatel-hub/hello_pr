@@ -6,6 +6,3 @@ testing on windows.
  pr-builder
 thanks.
 
-testing with pull request.
-
-
