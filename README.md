@@ -6,7 +6,7 @@ testing on windows.
 
 testing with pull request.
 
-hello world. How are you?
+hello world. 
 
 Thanks.
 mansi
